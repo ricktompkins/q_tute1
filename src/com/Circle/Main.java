@@ -7,7 +7,6 @@ public class Main {
     public static void main(String[] args) {
 
         /**
-         *
          *  Circle / opposite radial made during tutorial.
          */
 
@@ -23,7 +22,7 @@ public class Main {
 
         Circle circle = new Circle(n); // Instantiate new circle object with n.
 
-        int opposite = circle.radialOpposite(number); // calculate radial opposite of number for
+        int opposite = circle.radialOpposite(number); // calculate radial opposite of number
 
         System.out.println(opposite); // print out result
 
